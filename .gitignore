@@ -1,0 +1,5 @@
+/data/*
+/test.ipynb
+.md
+__pycache__
+/data.dat
