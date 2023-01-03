@@ -1,4 +1,5 @@
-data
+<pre>
+  data
     |-- folder_1 
             |-- sub_folder_1  # có thể được xem là các label cho dataset
                 |-- file.png
@@ -19,4 +20,4 @@ data
             |-- sub_folder_3
                 |-- file.png
                 .....
-           
+</pre>
